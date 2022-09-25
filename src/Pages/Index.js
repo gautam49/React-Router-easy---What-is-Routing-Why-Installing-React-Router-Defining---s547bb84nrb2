@@ -1,5 +1,6 @@
 import React from "react";
-const NotFound = () => {
-  return <div id="not-found-page">Not found page</div>;
+
+const Index = () => {
+  return <div id="index-page">Index Page</div>;
 };
-export default NotFound;
+export default Index;
